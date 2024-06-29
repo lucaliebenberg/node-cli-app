@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "Wireless Video Doorbell with Camera 720p HD 2-Way Audio Motion Detection WiFi Smart Visual Door Bell Home Chime",
+    "price": 1000,
+    "description": "3-Piece Yoga Mat Set - Ultra-Grip Non-Slip Surface, High-Quality Exercise Mat for Yoga, Pilates, Stretching, Floor and Fitness Routines - 72 By 24 Inches, Perfect for Family Workouts and Individual Exercises.",
+    "category": "electronics",
+    "images": [
+      "/images/image-1a.jpg",
+      "/images/image-1d.jpg",
+      "/images/image-1e.jpg"
+    ],
+    "rating": {
+      "rate": 4.5,
+      "count": 120
+    }
+  },
+  {
+    "id": 2,
+    "title": "Wayne Earthing Mat",
+    "price": 1000,
+    "description": "Earthing Mat For Sleep & Wellness - Grounding Therapy Pad With 4.57meter Cord, Carbon Conductive, Energy Balance & Pain Relief, Ideal For Home, Office, Studio Use.",
+    "category": "electronics",
+    "images": [
+      "/images/image-2a.jpg",
+      "/images/image-2b.jpg",
+      "/images/image-2c.jpg"
+    ],
+    "rating": {
+      "rate": 4.0,
+      "count": 100
+    }
+  },
+  {
+    "id": 3,
+    "title": "Intelligence Cupping",
+    "price": 1000,
+    "description": "3-Mode Intelligent Wired Cupping Massage Device for Neck, Back, Waist, and Shoulder Relief - 5 Temperature Levels, Hot Compress, Rechargeable Lithium Battery, Unscented, and Ergonomic Design.",
+    "category": "electronics",
+    "images": [
+      "/images/image-3a.jpg",
+      "/images/image-3b.jpg",
+      "/images/image-3c.jpg"
+    ],
+    "rating": {
+      "rate": 4.7,
+      "count": 80
+    }
+  },
+  {
+    "id": 4,
+    "title": "Massage Roller",
+    "price": 1000,
+    "description": "PC 360° Massage Roller, Circular Leg Slimming Clip, For Muscle Relaxation, Waist/Leg/Arm/Buttock Massage.",
+    "category": "electronics",
+    "images": [
+      "/images/image-4a.jpg",
+      "/images/image-4b.jpg",
+      "/images/image-4c.jpg"
+    ],
+    "rating": {
+      "rate": 4.3,
+      "count": 150
+    }
+  },
+  {
+    "id": 5,
+    "title": "Smart Electric",
+    "price": 1000,
+    "description": "This Smart Electric Gua Sha & Cupping Therapy Device offers a modern, efficient approach to traditional healing practices, making it an essential tool for anyone seeking relief from muscle pain and stress, as well as those looking to enhance their overall wellness.",
+    "category": "electronics",
+    "images": [
+      "/images/image-5.jpg",
+      "/images/image-5a.jpg",
+      "/images/image-5b.jpg"
+    ],
+    "rating": {
+      "rate": 4.2,
+      "count": 130
+    }
+  },
+  {
+    "id": 6,
+    "title": "Migrane Tension Health",
+    "price": 1000,
+    "description": "25 Pairs Natural Bamboo Vinegar Extract -, Weight Loss, Toxin Removal - Adhesive Patches for Men and Women - Body and Foot Health Care",
+    "category": "electronics",
+    "images": [
+      "/images/image-6a.jpg",
+      "/images/image-6b.jpg",
+      "/images/image-6c.jpg"
+    ],
+    "rating": {
+      "rate": 4.6,
+      "count": 90
+    }
+  },
+  {
+    "id": 7,
+    "title": "Soothing Healed Foot Ankle Wrap",
+    "price": 1000,
+    "description": "This Smart Electric Gua Sha & Cupping Therapy Device offers a modern, efficient approach to traditional healing practices, making it an essential tool for anyone seeking relief from muscle pain and stress, as well as those looking to enhance their overall wellness.",
+    "category": "electronics",
+    "images": [
+      "/images/image-7a.jpg",
+      "/images/image-7b.jpg",
+      "/images/image-7c.jpg"
+    ],
+    "rating": {
+      "rate": 4.1,
+      "count": 200
+    }
+  },
+  {
+    "id": 8,
+    "title": "Cordless Heated Patch",
+    "price": 1000,
+    "description": "Beyond Insomnia Sleep Salts. Discover the healing and restorative power of deep penetrating salts and miracle mustard powder. Sleep inducing Mustard Powder and Epson Salts with a gentle lavender scent. Beyond Wellness Stress Salts Relax with the soothing power of premium Epson salts and Himalayan crystals. Soothing Epson salts and Himalayan salts with a soothing citrus.",
+    "category": "electronics",
+    "images": [
+      "/images/image-8a.jpg",
+      "/images/image-8b.jpg",
+      "/images/image-8c.jpg"
+    ],
+    "rating": {
+      "rate": 4.8,
+      "count": 300
+    }
+  },
+  {
+    "id": 9,
+    "title": "Detox Foot Patch",
+    "price": 1000,
+    "description": "Air Compression for Calf, Foot, Thigh & Knee - Relief for Muscle Fatigue & Swelling - Ideal Gift for Parents & Adults on Thanksgiving & Christmas.",
+    "category": "electronics",
+    "images": [
+      "/images/image-9a.jpg",
+      "/images/image-9b.jpg",
+      "/images/image-9c.jpg"
+    ],
+    "rating": {
+      "rate": 4.7,
+      "count": 150
+    }
+  },
+  {
+    "id": 10,
+    "title": "Beyond Wellness Pack",
+    "price": 1000,
+    "description": "At WELLNESS WONDERS, we believe in the power of holistic health and the importance of nurturing the mind, body, and spirit. Founded in 2024, we have dedicated ourselves to providing the highest quality wellness products that support a balanced and healthy lifestyle. Our carefully curated selection includes everything from organic supplements and natural skincare to eco-friendly home goods and fitness equipment. Each product is chosen with your well-being in mind, ensuring you receive only the best nature has to offer.",
+    "category": "electronics",
+    "images": [
+      "/images/image-10a.jpg",
+      "/images/image-10b.jpg",
+      "/images/image-10c.jpg"
+    ],
+    "rating": {
+      "rate": 4.2,
+      "count": 180
+    }
+  }
+]
